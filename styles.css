@@ -1,0 +1,41 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background-color: orange;
+}
+
+.button {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 20px;
+}
+
+#rock {
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+
+#paper {
+    height: 100px;
+    width: 200px;
+    background-color: skyblue;
+}
+
+#scissors {
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
